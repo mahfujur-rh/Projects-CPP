@@ -72,7 +72,8 @@ int main() {
         //add the sub and sub record--
         s.addsubject(subname, credit, gradepoint);
     }
-    // calculate and display the CGPA 
+    
     s.dispalycgpa();
     return 0;
 }
+
